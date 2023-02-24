@@ -5,12 +5,12 @@ Your GitHub Actions dashboard showing a successful first build.
 Your GitHub repository with the readme.md file selected showing the code that you
 changed to update the badge.
 
-![Screen Capture #1](images/img3.png)
+![Screen Capture #1](images/img2.png)
 
 Your GitHub repository with the readme.md file selected showing the build success
 status after you’ve updated the badge markdown.
 
-![Screen Capture #1](images/img2.png)
+![Screen Capture #1](images/img3.png)
 
 The section of the POM file showing the coordinates after you’ve commented them
 out.
